@@ -1,0 +1,17 @@
+.tasks {
+  /* sample */
+  font-size: 20px;
+}
+
+.empty {
+  /* sample */
+  font-size: 20px;
+}
+
+.listing{
+  display: flex;
+  margin: 10px;
+}
+.boxsize{
+  width: 50px;
+}

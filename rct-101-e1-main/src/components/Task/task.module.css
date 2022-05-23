@@ -1,0 +1,8 @@
+.task {
+  /* Sample  */
+  display: flex;
+  margin: 50px;
+}
+.checkbox{
+  text-decoration: line-through;
+}

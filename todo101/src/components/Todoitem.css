@@ -1,0 +1,33 @@
+.red{
+    color: red;
+}
+.itemFlex{
+    width: 35%;
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    
+   
+}
+.item-btn{
+    width: 15%;
+    border-radius: 10px;
+    height: 45px;
+    background-color: teal;
+    color: white;
+    border: none;
+    
+}
+.item-data{
+    font-size: 25px;
+    align-self: center;
+    /* align-content: center; */
+    padding-left: 20px;
+    color: darkred;
+    font-weight: 600;
+    
+}
